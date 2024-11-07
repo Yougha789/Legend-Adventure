@@ -1,2 +1,2 @@
 # Legend-Adventure
-Un jeu vidéo
+Un jeu vidéo d'aventure et de quêtes.
